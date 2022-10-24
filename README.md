@@ -45,7 +45,7 @@ $ sudo pip3 install -U --no-deps numpy==1.19.4 future==0.18.2 mock==3.0.5 keras_
 ```
 **Step 4:** Install TensorFlow 2.7.0
 ```
-$ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v461
+$ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v461 tensorflow
 ```
 ## 3. Re-install corresponding OpenCV and fix bugs
 Here, I will download source and install OpenCV in version 4.1.1. </br>
